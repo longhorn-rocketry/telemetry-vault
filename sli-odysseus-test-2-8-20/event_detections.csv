@@ -1,0 +1,6 @@
+Event,Flight time (s),Triggered by
+Liftoff,0,Sensors
+Burnout,2.52,Sensors
+Apogee/drogue,16.419,Sensors
+Main,56.185,Timeout
+Impact,90.121,Timeout
